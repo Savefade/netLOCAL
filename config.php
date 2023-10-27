@@ -1,0 +1,2 @@
+<?php
+$isenabled = 1;
